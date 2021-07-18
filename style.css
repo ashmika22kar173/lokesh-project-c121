@@ -1,0 +1,58 @@
+.bob{
+    background-color: gray;
+    width: 600px;
+    height: 700px;
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 250px;
+
+}
+
+.img{
+width: 250px;
+height:350px;
+margin-top: 50x;
+margin-left: 180px;
+border-radius: 20px;
+background-color: white;
+ }
+
+ .google{
+     background-color: white;
+     width: 400px;
+     font-size: 17px;
+     border-radius: 15px;
+     margin-left: 150px;
+    
+    
+ }
+
+ .google b{
+color: purple;
+
+ }
+.google span{
+    color: red;
+}
+
+.mobilenet{
+    background-color: white;
+    width: 400px;
+    font-size: 17px;
+    border-radius: 15px;
+    margin-left: 150px;
+    
+}
+
+.mobilenet b{
+    color: purple;
+}
+
+.mobilenet span{
+    color: red;
+}
+
+.lokesh{
+     color: white;
+     margin-left: 170px;
+ }
